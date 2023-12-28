@@ -1,5 +1,7 @@
 # objtoimage
 
+![Encoded Vertices](encoded_vertices.png)
+
 ### Converting OBJ Vertices to 2D Images
 
 3D modeling and visualization are essential components of various industries, including gaming, film, and architecture. Often, 3D objects are stored in files with the `.obj` format, a standard for representing 3D geometry. However, there are scenarios where you might need to process or analyze these models in a 2D context. This is where our Python script comes into play, converting 3D vertex data from `.obj` files into 2D images. Here's an in-depth look at how this script works and its potential applications.
